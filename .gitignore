@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*~
+__pycache__/
+*.pyc
+.idea/
+page_*.jpg
+contact.jpg
